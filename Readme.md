@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ChartSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/ChartSample/MainWindow.xaml.vb))
+* **[MainWindow.xaml.cs](./CS/ChartSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ChartSample/MainWindow.xaml.vb))**
+<!-- default file list end -->
 # How to rotate a diagram to avoid segment shifting 
 
 
